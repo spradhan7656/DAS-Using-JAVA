@@ -1,0 +1,4 @@
+class Arraysum22
+{
+	
+}

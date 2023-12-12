@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author SANTOSH
+ *
+ */
+module String {
+}
